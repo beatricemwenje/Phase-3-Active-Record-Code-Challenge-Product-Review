@@ -6,6 +6,7 @@ This assignment requires one to create a Ruby application that models an e-comme
 # Entity Relationship Diagram
 For this code challenge, a Product has many Users, a User has many Products, and a Review belongs to a User and to a Product. Product-User is a many-to-many relationship.
 
+https://staruml.io/
 # Topics Tested
 This code challenge focused on testing the following topics:
 
