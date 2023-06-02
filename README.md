@@ -15,7 +15,7 @@ ActiveRecord Associations
 Class and Instance Methods
 ActiveRecord Querying
 Project Setup
-Clone the repository using git clone https://github.com/fatouuuu/code-challenge-phase-3-wk-3.git.
+Clone the repository using git clone https://github.com/beatricemwenje/Phase-3-Active-Record-Code-Challenge-Product-Review
 Run bundle install to install the required dependencies.
 Run rake db:create to create the database.
 Run rake db:migrate to migrate the database schema.
